@@ -1,7 +1,5 @@
 # fake_news_classifier
 
-## Planteamiento del problema:
-
 ## Objetivos:
 ### Obejtivo general:
 * Generar y entrenar un modelo de machine learning para determinar si una noticia es falsa o no.
