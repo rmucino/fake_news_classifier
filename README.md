@@ -12,7 +12,8 @@
 
 ## Alcance del proyecto
 
-Realizar un modelo de Machine Learning con la libreria de Sci-Kit Learn para Guassian Naive Bayes con el fin de realizar la clasificación de noticias.
+Realizar un modelo de Machine Learning con la libreria de Sci-Kit Learn para Guassian Naive Bayes con el fin de realizar la clasificación de noticias. [Dataset] (https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+
 
 ## Justificacion
 
